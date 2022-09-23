@@ -3,7 +3,9 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - master
+  # Enables running this workflow manually from the Actions tab
+  workflow_dispatch:
   pull_request:
 
 jobs:
