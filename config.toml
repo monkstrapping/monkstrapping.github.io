@@ -1,0 +1,4 @@
+baseURL = 'https://monkstrapping.com/'
+languageCode = 'en-us'
+title = 'Monkstrapping'
+theme = 'etch'
